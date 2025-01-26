@@ -1,0 +1,15 @@
+CosmeticStore.class
+CosmeticFactory.class
+CosmeticObserver.class
+UserObserver.class
+LipstickFactory.class
+ApplicationStrategy.class
+Perfume.class
+ApplyWithFingers.class
+Lipstick.class
+Main.class
+ScentedProduct.class
+ApplyWithBrush.class
+CosmeticCollection.class
+PerfumeFactory.class
+CosmeticProduct.class
