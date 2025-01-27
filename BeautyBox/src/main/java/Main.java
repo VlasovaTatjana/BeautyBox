@@ -1,3 +1,15 @@
+import composite.CosmeticCollection;
+import decorator.ScentedProduct;
+import factory.CosmeticFactory;
+import factory.LipstickFactory;
+import observer.CosmeticStore;
+import observer.UserObserver;
+import product.CosmeticProduct;
+import product.Perfume;
+import strategy.ApplicationStrategy;
+import strategy.ApplyWithBrush;
+import strategy.ApplyWithFingers;
+
 public class Main {
 
     public static void main(String[] args) {
