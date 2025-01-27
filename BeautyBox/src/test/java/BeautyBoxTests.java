@@ -1,4 +1,17 @@
+import composite.CosmeticCollection;
+import decorator.ScentedProduct;
+import factory.CosmeticFactory;
+import factory.LipstickFactory;
+import factory.PerfumeFactory;
+import observer.CosmeticStore;
+import observer.UserObserver;
 import org.junit.jupiter.api.Test;
+import product.CosmeticProduct;
+import product.Lipstick;
+import product.Perfume;
+import strategy.ApplicationStrategy;
+import strategy.ApplyWithBrush;
+import strategy.ApplyWithFingers;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
